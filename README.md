@@ -1,11 +1,11 @@
-<h1 align=center>
+![calculator](https://github.com/LeonardoJorge4/calculator-app/assets/69438854/03a8098d-7d80-4644-94fe-8be053b788d0)<h1 align=center>
   Calculator APP
 </h1>
 
 ## 📷 Preview
 
 <div align=center>
-  <img width="855" alt="rentx banner" src="https://github.com/LeonardoJorge4/calculator-app/assets/69438854/482ac1b9-6ecd-40cb-b844-b0166ded45b7"/>
+  <img width="855" alt="rentx banner" src="https://github.com/LeonardoJorge4/calculator-app/assets/69438854/a7cebeda-88eb-4798-b4a6-d082b1d7bac3"/>
 </div>
 
 ## 🕵️ About 
