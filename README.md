@@ -1,4 +1,4 @@
-![calculator](https://github.com/LeonardoJorge4/calculator-app/assets/69438854/03a8098d-7d80-4644-94fe-8be053b788d0)<h1 align=center>
+<h1 align=center>
   Calculator APP
 </h1>
 
